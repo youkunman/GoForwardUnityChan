@@ -33,5 +33,8 @@ public class CubeController : MonoBehaviour {
                 if (tag == "cube") {
                         block.PlayOneShot(block.clip);
                 }
+                if (tag == "cube") {
+                        block.PlayOneShot(block.clip);
+                }
         }
 }

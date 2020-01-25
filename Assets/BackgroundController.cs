@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class BackgroundController: MonoBehaviour {
 
-	private float scrollSpeed = 0.03f;
+	private float scrollSpeed = -0.03f;
 
 	private float deadLine = -16;
 
